@@ -1,0 +1,22 @@
+body
+{
+    margin: 0;
+    overflow: hidden;
+    background-color: beige;
+}
+
+canvas
+{
+    display: block;
+    background: white;
+}
+
+.toolbar
+{
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    background: rgba(202, 202, 202, 0.9);
+    padding: 10px;
+    border-radius: 5px;
+}
