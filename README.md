@@ -1,1 +1,1 @@
-"# CompGraphics" 
+# CompGraphics
